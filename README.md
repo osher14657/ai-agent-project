@@ -9,3 +9,16 @@ Build practical agent-based tools that can automate tasks and work with local AI
 
 ## Status
 Work in progress.
+
+## Usage
+
+```bash
+python main.py
+Write a summary of a topic
+Agent received task: Write a summary of a topic
+Processing... (prototype)
+Task completed!
+
+ואז Commit:
+```text
+update usage instructions

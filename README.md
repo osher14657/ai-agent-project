@@ -18,5 +18,3 @@ Write a summary of a topic
 Agent received task: Write a summary of a topic
 Processing... (prototype)
 Task completed!
-
-ואז 

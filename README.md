@@ -19,6 +19,4 @@ Agent received task: Write a summary of a topic
 Processing... (prototype)
 Task completed!
 
-ואז Commit:
-```text
-update usage instructions
+ואז 
